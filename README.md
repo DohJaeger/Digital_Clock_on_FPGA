@@ -1,1 +1,3 @@
-# Digital_Clock_with_FPGA_Basys3_VerilogHDL
+# Digital Clock on FPGA
+- Alarm
+- Stopwatch
